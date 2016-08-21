@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # SDF: RVM uses the following to automatically set the appropriate ruby version.
-ruby   '2.2.1'
+ruby   '2.2.4'
 
 # SDF: RVM uses the following to automatically set the gemset.
 #ruby-gemset=railstutorial_rails_4_2
